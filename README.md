@@ -14,15 +14,6 @@ Microsoft Power Automate
 Machine Learning
 Data Visualization
 Business Intelligence
-🚀 Featured Projects
-
-📊 Telecom Customer Churn Prediction
-
-🎵 Music Sales Analysis using SQL
-
-🏠 Boston Housing Market Analysis (Tableau)
-
-⚙️ Operational Email Workflow Automation
 
 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/pappoppula-akhilesh/
