@@ -66,7 +66,7 @@ Machine Learning project focused on predicting customer churn using a telecom da
 
 ### ⚙️ Email Automation using Power Automate
 
-Built an automated workflow to send emails directly from an Excel-based tracker with PDF attachments.
+At EC-Council I built an automated workflow to send emails directly from an Excel-based tracker with PDF attachments.
 
 **Key Features:**
 - Automated Email Generation
